@@ -1,7 +1,6 @@
 # gdtfields
-=========
-ExpressionEngine 2 Plugin to return data about channel fields parsed for output to templates.
 
+ExpressionEngine 2 Plugin to return data about channel fields parsed for output to templates.
 
 ###Tag Pairs
 
@@ -30,7 +29,8 @@ ExpressionEngine 2 Plugin to return data about channel fields parsed for output 
   {field_content_type}
 {/exp:gdtfields:channel_field}
 ```
-
-###Required Parameters:
-```field_name```
+###Required Parameters
+```
+field_name
+```
 
